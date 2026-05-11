@@ -4,6 +4,3 @@ terraform.tfstate
 terraform.tfstate.backup
 *.tfvars
 .terraform.lock.hcl
-
-# Screenshots — exclude old ones
-screenshots/
